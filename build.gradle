@@ -49,6 +49,8 @@ test {
     useJUnitPlatform()
 }
 
+
+
 springBoot{
     buildInfo()
 }
